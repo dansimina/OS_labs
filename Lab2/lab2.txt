@@ -1,0 +1,10 @@
+1.
+grep `whoami` /etc/passwd > lab2_afisari.txt
+gedit lab2_afisari.txt
+
+2. 
+grep -v "text1\|text2" fisier_cerinta_2.txt
+3.
+ls | wc -l
+ls -l| grep ^d |wc -l
+echo "nr total $(ls | wc -l) nr directoare $(ls -l | grep ^d | wc -l)"

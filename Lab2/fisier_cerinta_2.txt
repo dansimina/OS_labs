@@ -1,0 +1,5 @@
+a b c text1
+d h d m text2
+aici nu e
+ceva text1
+nici aici
