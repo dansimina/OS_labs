@@ -35,8 +35,6 @@ int main(int argc, char **argv)
             printf("Writing error\n");
             return 5;
         }
-
-
     }
 
     return 0;   
