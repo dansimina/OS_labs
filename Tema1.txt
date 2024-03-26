@@ -1,0 +1,25 @@
+if ...
+	goto final;
+
+
+final:
+	dealocare
+	inchidere fisiere
+	
+	return ...;
+
+
+SAU
+
+do {
+
+} while(0);
+
+zona de exceptii
+if (a != NULL)
+	free(1)
+
+if(...)
+	...
+
+hexdump -C aa (ajuta)
